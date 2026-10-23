@@ -1,0 +1,32 @@
+# ---- Keil MDK build output ----
+MDK-ARM/yugu6778/
+MDK-ARM/DebugConfig/
+MDK-ARM/EventRecorderStub.scvd
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.uvoptx
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.dep
+*.iex
+*.htm
+*.bak
+*.log
+
+# ---- Source Insight project cache ----
+*.si4project/
+
+# ---- Editors / OS ----
+.vscode/.history/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ---- Nested clone of this same repository ----
+pageStack/
